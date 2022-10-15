@@ -1,0 +1,135 @@
+{
+    "NAMEK":[
+        {
+            "id" :1 ,
+            "name" : "Abdelkrim Jouidri" ,
+            "img" : ""
+        },
+        {
+            "id" :2 ,
+            "name" : "Abdellah El Hilaly",
+            "img" : ""
+        },
+        {
+            "id" :3 ,
+            "name" : "Adnane Khayrou",
+            "img" : ""
+        },
+        {
+            "id" :4 ,
+            "name" : "Ahmed Yassine El Hamzaoui",
+            "img" : ""
+        },
+        {
+            "id" :5 ,
+            "name" : "Anass Kassemi",
+            "img" : ""
+        },
+        {
+            "id" :6 ,
+            "name" : "Asmae Elkhiraoui",
+            "img" : ""
+        },
+        {
+            "id" :7 ,
+            "name" : " Fahd Mahfoudi",
+            "img" : ""
+        },
+        {
+            "id" : 8,
+            "name" : "Hajjou Walkadi",
+            "img" : ""
+        },
+        {
+            "id" :9 ,
+            "name" : "Hicham Al Qagh",
+            "img" : ""
+        },
+        {
+            "id" :10 ,
+            "name" : "Hicham El Arfaouy",
+            "img" : ""
+        },
+        {
+            "id" :11 ,
+            "name" : "Hind Hansali",
+            "img" : ""
+        },
+        {
+            "id" :12 ,
+            "name" : "Imane Rouchdi",
+            "img" : ""
+        },
+        {
+            "id" :13 ,
+            "name" : "Marouane Tabib ",
+            "img" : ""
+        },
+        {
+            "id" :14 ,
+            "name" : "Mehdi Ez-zahri",
+            "img" : ""
+        },
+        {
+            "id" :15 ,
+            "name" : "Mohammed El Arabi Naciri",
+            "img" : ""
+        },
+        {
+            "id" :16 ,
+            "name" : "Mouad El Amraoui",
+            "img" : ""
+        },
+        {
+            "id" :17 ,
+            "name" : "Mouad Fifel",
+            "img" : ""
+        },
+        {
+            "id" :18 ,
+            "name" : "Nouhaila El Housni",
+            "img" : ""
+        },
+        {
+            "id" :19 ,
+            "name" : "Oumaima Elmachi",
+            "img" : ""
+        },
+        {
+            "id" :20 ,
+            "name" : "Salaheddine Hanaoui",
+            "img" : ""
+        },
+        {
+            "id" :21 ,
+            "name" : "Salma Gader",
+            "img" : ""
+        },
+        {
+            "id" :22 ,
+            "name" : "Shima Toufik",
+            "img" : ""
+        },
+        {
+            "id" :23 ,
+            "name" : "Tarek Ouachani",
+            "img" : ""
+        },
+        {
+            "id" :24 ,
+            "name" : "Yassine Sahyane",
+            "img" : ""
+        },
+        {
+            "id" :25 ,
+            "name" : "Youness Ahasla",
+            "img" : ""
+        },
+        {
+            "id" :26 ,
+            "name" : "Youssef ELmati",
+            "img" : "./img/399-1662643673.JPG"
+        }
+
+    ] 
+}
